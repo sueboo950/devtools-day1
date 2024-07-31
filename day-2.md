@@ -6,7 +6,7 @@
 <li>Task 5-Dinosaur</li>
 <li>Task 6-Rainbow</li>
 <li>Task 7-Pyramid</li>
-<li>Task 8-Butterfly</li>
+<li>Task 8-Butte</li>
 <li>Task 9-Comet</li>
 <li>Task 10-Volcano</li>
 </ul>
