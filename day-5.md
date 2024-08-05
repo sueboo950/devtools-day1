@@ -22,11 +22,39 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 2:
 
-- Description: [Your explanation here]
+- Description: [css call link was outside the headtags]
 
 #### Problem 3:
 
-- Description: []
+- Description: [class id was not assigned to an element in the html]
+
+#### Problem 4:
+
+- Description: [Image too big for ARIA compliance, / at close, and missing alt for ARIA compliance]
+
+#### Problem 5:
+
+- Description: [We want the external version of our js files called proir to any linked scripts]
+
+#### Problem 6:
+
+- Description: [!Important is know longer needed in style sheet]
+
+#### Problem 7:
+
+- Description: [Image size in style sheet was out of ARIA compliance]
+
+#### Problem 8:
+
+- Description: [No need for unused styles.]
+
+#### Problem 9:
+
+- Description: [n/a no problem found/skipped]
+
+#### Problem 10:
+
+- Description: [Javascript is correct]
 
 [Continue with the remaining problems]
 
@@ -36,22 +64,51 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: [Entered meta data]
 
 #### Problem 2:
 
-- Solution: [Your proposed solution here]
+- Solution: [repositioned the style sheet link]
 
 #### Problem 3:
 
-- Solution: []
+- Solution: [changed the class ID]
 
+#### Problem 4:
+
+- Solution: [Changed size of image, removed /, and entered alt for ARIA compliance]
+
+#### Problem 5:
+
+- Solution: [Changed the order of scripts linked]
+
+#### Problem 6:
+
+- Solution: [Removed !Important from body styling]
+
+#### Problem 7:
+
+- Solution: [Corrected image size to match that of HTML for ARIA compliance]
+
+#### Problem 8:
+
+- Solution: [Removed unused styling from style sheet.]
+
+#### Problem 9:
+
+- Solution: [n/a no problem present. skipped]
+
+#### Problem 10:
+
+- Solution: [dev tools is not showing any javascript errors.]
 
 [Continue with solutions for the remaining problems]
 
 ### Step 4: Reflect
 
 After completing the exercise, write a brief reflection on what you learned from this debugging and optimization process. Discuss any new insights you gained and how you might apply these skills in future projects.
+
+Ive learned to look and read carefully in order to find the problems and all the mistakes, Ive gained new insight on how a little mmistakes that can cause the whole function to not work.
 
 ## Submission
 
